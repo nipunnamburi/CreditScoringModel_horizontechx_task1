@@ -1,6 +1,5 @@
-# Horizon TechX Internship — Task 1: Credit Scoring Model
+Credit Scoring Model
 
-> **Internship Review & Technical Documentation**  
 > **Domain:** FinTech / Predictive Analytics / Machine Learning  
 > **Project:** Credit Risk Assessment and Scoring System  
 
